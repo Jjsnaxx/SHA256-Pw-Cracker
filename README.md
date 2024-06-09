@@ -8,7 +8,7 @@ The [rockyou.txt](https://github.com/brannondorsey/naive-hashcat/releases/downlo
 
 ## Specifics:
 
-- Virtual Machine (VirtualBox) with Kali Linux Distribution
+- Virtual Machine (VirtualBox) with [Kali Linux](https://www.kali.org/get-kali/#kali-virtual-machines)
 - Python 3.0
 
 ## Text Editor:

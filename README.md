@@ -2,7 +2,9 @@
 
 ## Overview
 
-The aim of this project is to learn how to create a SHA256 hash cracking script and gain a better understanding of how to use the Pwntools and sys modules.
+The aim of this project is to learn how to create a SHA256 hash cracking script and gain a better understanding of how to use the Pwntools and sys modules. This is purely for learning purposes. 
+
+The [rockyou.txt](https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt) file was used as the password list.
 
 ## Specifics:
 

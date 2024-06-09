@@ -13,12 +13,12 @@ The [rockyou.txt](https://github.com/brannondorsey/naive-hashcat/releases/downlo
 
 ## Text Editor:
 
-- Sublime Text
+- [Sublime Text](https://www.sublimetext.com/docs/linux_repositories.html)
 
 ## Python Modules Used:
 
-- Pwntools
-- sys
+- [Pwntools](https://docs.pwntools.com/en/stable/)
+- [SYS](https://docs.python.org/3/library/sys.html)
 
 ## What I Learned:
 
